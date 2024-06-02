@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Utilities\CleanArc_Kevin.Utilities\CleanArc_Kevin.Utilities.csproj" />
+    <ProjectReference Include="..\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\CleanArc_Kevin.Core.Contracts\CleanArc_Kevin.Core.Contracts.csproj" />
+    <ProjectReference Include="..\CleanArc_Kevin.Core.Domain\CleanArc_Kevin.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

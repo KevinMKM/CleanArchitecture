@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\Core\CleanArc_Kevin.Core.Contracts\CleanArc_Kevin.Core.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\Core\CleanArc_Kevin.Core.Domain\CleanArc_Kevin.Core.Domain.csproj" />
+    <ProjectReference Include="..\CleanArc_Kevin.Infra.Data.Sql\CleanArc_Kevin.Infra.Data.Sql.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@CleanArc_Kevin.Endpoints.API_HostAddress = http://localhost:5027
+
+GET {{CleanArc_Kevin.Endpoints.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
