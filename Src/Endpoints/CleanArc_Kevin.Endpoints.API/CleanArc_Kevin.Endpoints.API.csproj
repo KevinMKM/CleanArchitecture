@@ -19,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj" />
     <ProjectReference Include="..\..\Core\CleanArc_Kevin.Core.ApplicationService\CleanArc_Kevin.Core.ApplicationService.csproj" />
     <ProjectReference Include="..\..\Core\CleanArc_Kevin.Core.Contracts\CleanArc_Kevin.Core.Contracts.csproj" />
     <ProjectReference Include="..\..\Utilities\CleanArc_Kevin.Utilities\CleanArc_Kevin.Utilities.csproj" />

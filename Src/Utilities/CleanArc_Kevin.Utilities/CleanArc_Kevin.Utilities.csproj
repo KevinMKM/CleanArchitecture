@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\..\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>

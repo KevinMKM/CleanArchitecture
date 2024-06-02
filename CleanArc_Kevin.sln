@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArc_Kevin.Infra.Data.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArc_Kevin.Infra.Data.Sql.Queries", "Src\Infra\Data\CleanArc_Kevin.Infra.Data.Sql.Queries\CleanArc_Kevin.Infra.Data.Sql.Queries.csproj", "{A1810E11-97BA-4714-8CDB-A3E8DC53FBFC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArc_Kevin.Core.Abstractions", "Src\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj", "{18B10B94-B943-4A0A-BF24-9C391DDA6498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArc_Kevin.Core.Abstractions", "Src\Core\CleanArc_Kevin.Core.Abstractions\CleanArc_Kevin.Core.Abstractions.csproj", "{18B10B94-B943-4A0A-BF24-9C391DDA6498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
